@@ -1,0 +1,15 @@
+La seguridad digital es un pilar fundamental para salvaguardar 
+las plataformas tecnológicas de carácter comunitario y participativo, 
+ya que estas herramientas suelen gestionar información sensible de los 
+ciudadanos. Proteger estos entornos no es solo un desafío técnico, sino 
+un compromiso ético y social para garantizar la confianza de la comunidad 
+y evitar que agentes externos manipulen o saboteen los procesos democráticos.
+
+Cuando una plataforma comunitaria es vulnerable, se pone en riesgo la privacidad 
+de los liderazgos locales, la transparencia de la participación y la memoria histórica 
+de las organizaciones. Implementar buenas prácticas como contraseñas seguras, control 
+de accesos y el uso de software de código abierto como Linux, reduce drásticamente la 
+superficie de ataque frente a la desinformación y el robo de identidad. De este modo, 
+la seguridad digital se convierte en una herramienta de protección colectiva que fortalece 
+el tejido social en el entorno digital, garantizando espacios seguros y confiables para 
+la deliberación pública.
